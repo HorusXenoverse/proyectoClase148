@@ -1,0 +1,11 @@
+Model Information:
+* title:	Banco de madeira
+* source:	https://sketchfab.com/3d-models/banco-de-madeira-0f24c15e93bd4e25aa50f8bf8fa5e760
+* author:	Vitor Augusto (https://sketchfab.com/Vitorodrigues)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Banco de madeira" (https://sketchfab.com/3d-models/banco-de-madeira-0f24c15e93bd4e25aa50f8bf8fa5e760) by Vitor Augusto (https://sketchfab.com/Vitorodrigues) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

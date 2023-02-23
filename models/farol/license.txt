@@ -1,0 +1,11 @@
+Model Information:
+* title:	Farol
+* source:	https://sketchfab.com/3d-models/farol-d45b51f76e704625814794b1d03b9dd5
+* author:	blackscrip (https://sketchfab.com/blackscrip)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Farol" (https://sketchfab.com/3d-models/farol-d45b51f76e704625814794b1d03b9dd5) by blackscrip (https://sketchfab.com/blackscrip) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
